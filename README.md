@@ -3,5 +3,7 @@ Site para você anotar suas tarefas diárias; ( Muito simples, pois é para prat
   
   Ajude-me a melhorá-lo, mostre suas habilidades!
   
+  Ajude a construir uma conexão com o servidor para salvar os dados!
+  
   
 
